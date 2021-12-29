@@ -2,3 +2,4 @@
 ##
 ![stats](https://github-readme-stats.vercel.app/api?username=Luiz-eduardp&show_icons=true&theme=great-gatsby)
 
+![vue](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
