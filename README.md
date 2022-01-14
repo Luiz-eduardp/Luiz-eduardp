@@ -6,7 +6,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luiz-eduardp&theme=darkhub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-eduardp)
+"[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-eduardp&langs_count=8)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Luiz-eduardp&show_icons=true&theme=great-gatsby)
 
