@@ -5,9 +5,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Luiz-eduardp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luiz-eduardo-73547a214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luizzeduardp/)  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luiz-eduardp&theme=darkhub)
+![stats](https://github-readme-stats.vercel.app/api?username=Luiz-eduardp&show_icons=true&theme=great-gatsby)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-eduardp&langs_count=10)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luiz-eduardp)  
