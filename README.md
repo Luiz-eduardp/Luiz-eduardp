@@ -9,7 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-eduardp&langs_count=10)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Luiz-eduardp&show_icons=true&theme=great-gatsby)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luiz-eduardp)  
 
