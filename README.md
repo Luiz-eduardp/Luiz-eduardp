@@ -8,7 +8,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luiz-eduardp)  
+
 
 
 
