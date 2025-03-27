@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Luiz Eduardo
-
-<a href="https://stardev.io/developers/Luiz-eduardp"><img alt="Check out Luiz-eduardp's profile on stardev.io" src="https://stardev.io/developers/Luiz-eduardp/badge/languages/locality.svg" /></a>
+### Hi there 👋, my name is Luiz Eduado
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luiz-eduardp&theme=darkhub)
 ![stats](https://github-readme-stats.vercel.app/api?username=Luiz-eduardp&show_icons=true&theme=great-gatsby)
